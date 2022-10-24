@@ -1,4 +1,4 @@
-## <b>𝙈𝙏 𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
+## <b>𝘼𝙪𝙩𝙤𝘾𝙖𝙥𝙩𝙞𝙤𝙣 𝘽𝙤𝙩</b>
 
 This Repo is Telegram Channel Code to help build a bot that automatically adds captions to files added to a Telegram channel
 
@@ -57,13 +57,3 @@ This Repo is Telegram Channel Code to help build a bot that automatically adds c
 Licensed under [MIT License](https://github.com/PR0FESS0R-99/AutoCaptionBot-V1/blob/main/LICENSE)
 🚫 Don't Sell This Code. Code is fully open source project ❤️‍🔥
 Copyright Claimed by © @PR0FESS0R-99
-
-
-
-
-
-
-
-
-
-
